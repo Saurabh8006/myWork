@@ -1,0 +1,22 @@
+package com.generalPractice;
+
+public class Tets101 {
+
+	public static void main(String[] args) {
+		//swap numbers
+			int a =110; 
+			int b = 20;
+			
+			int temp = a;
+			a= b;
+			b = temp;
+			
+			System.out.println(a);
+			System.out.println(b);
+			
+			
+			
+			
+	}
+
+}
